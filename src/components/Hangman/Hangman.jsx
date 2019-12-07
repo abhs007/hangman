@@ -1,7 +1,6 @@
 import React, { useRef, useEffect, useMemo, useState, useCallback } from 'react';
 import PropTypes from 'prop-types';
 import { debounce } from 'lodash';
-
 import './Hangman.css';
 
 /**
