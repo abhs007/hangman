@@ -1,17 +1,8 @@
 # hangman
 
-Implement the classic [Hangman
+The classic [Hangman
 game](<https://en.wikipedia.org/wiki/Hangman_(game)>) in React.
 
-Feel free to use any tools and techniques that you would use in your
-day-to-day development.
-
-## Instructions
-
-1. Generate a new **private** repo using this template repo.
-2. Provide your answers to your generated repo.
-3. Once your repo is ready for review, add `voleer-dev` as a collaborator for your repo.
-4. Wait for our response.
 
 ## Requirements
 
@@ -36,22 +27,3 @@ need or would like to get creative.
   the game is over
 - An indication of win/loss state when the game is over
 - The ability to start a new game once the game is over
-
-## Included
-
-The following items are included in the base application. Please feel free to
-add additional libraries or tools if you feel they would help.
-
-- Create React App
-
-  - If needed, the original Create React App README is saved
-    [here](README_CRA.md) for reference
-  - We don't anticipate that you'll need enough additional configuration to
-    require ejecting, but feel free to do so if it helps
-
-- Component to draw the Hangman
-  ([src/components/Hangman/Hangman.jsx](src/components/Hangman/Hangman.jsx))
-
-- React Storybook
-  - Run using `npm run storybook` to see already implemented components, or
-    write your own stories to help you implement your solution
