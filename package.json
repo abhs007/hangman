@@ -17,7 +17,7 @@
     "prop-types": "^15.7.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.2",
+    "react-scripts": "5.0.1",
     "styled-components": "^2.1.2"
   },
   "devDependencies": {
@@ -25,7 +25,7 @@
     "@storybook/addon-actions": "^5.2.1",
     "@storybook/addon-links": "^5.2.1",
     "@storybook/addons": "^5.2.1",
-    "@storybook/react": "^5.2.1",
+    "@storybook/react": "^9.1.1",
     "babel-loader": "^8.0.6"
   },
   "eslintConfig": {
